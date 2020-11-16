@@ -13,7 +13,8 @@ export default function About() {
 
           <p>Para mas info</p>
           
-            <img className="fab fa-github" href='https://www.linkedin.com/in/cristian-lucatti/'></img>
+            <a href='https://www.linkedin.com/in/cristian-lucatti/'><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+            <a href='https://github.com/cristianluca19'><img src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
     
         </div>
 
