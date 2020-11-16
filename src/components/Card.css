@@ -1,7 +1,10 @@
+
 .card {
   margin: 20px;
   width: 18rem;
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpDy7KLT8hngbwOP61X2J0CnkthXRLv5APTg&usqp=CAU');
+  background-color: rgb(139, 230, 253);
+  opacity: 0.9;
+
 }
 
 .card-title {
