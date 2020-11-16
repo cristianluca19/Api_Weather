@@ -1,0 +1,21 @@
+.card {
+  margin: 20px;
+  width: 18rem;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpDy7KLT8hngbwOP61X2J0CnkthXRLv5APTg&usqp=CAU');
+}
+
+.card-title {
+  margin-bottom: 15px;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
