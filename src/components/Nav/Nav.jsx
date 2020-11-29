@@ -1,6 +1,6 @@
 import React from 'react';
 import SearchBar from './SearchBar.jsx';
-import Logo from '../img/weather.png'
+import Logo from '../../img/weather.png'
 import './Nav.css';
 import { Link } from 'react-router-dom';
 
